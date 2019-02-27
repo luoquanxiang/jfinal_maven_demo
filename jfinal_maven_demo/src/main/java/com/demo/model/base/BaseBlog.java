@@ -1,4 +1,4 @@
-package com.demo.common.model.base;
+package com.demo.model.base;
 
 import com.jfinal.plugin.activerecord.Model;
 import com.jfinal.plugin.activerecord.IBean;

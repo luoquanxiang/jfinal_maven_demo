@@ -1,9 +1,12 @@
-package com.demo.blog;
+package com.demo.controller;
 
+import com.demo.interceptor.BlogInterceptor;
+import com.demo.model.Blog;
+import com.demo.service.BlogService;
+import com.demo.validator.BlogValidator;
 import com.jfinal.aop.Before;
 import com.jfinal.aop.Inject;
 import com.jfinal.core.Controller;
-import com.demo.common.model.Blog;
 
 /**
  * 本 demo 仅表达最为粗浅的 jfinal 用法，更为有价值的实用的企业级用法

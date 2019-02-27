@@ -1,7 +1,8 @@
-package com.demo.common.model;
+package com.demo.model;
 
 import javax.sql.DataSource;
-import com.demo.common.DemoConfig;
+
+import com.demo.config.DemoConfig;
 import com.jfinal.kit.PathKit;
 import com.jfinal.plugin.activerecord.dialect.MysqlDialect;
 import com.jfinal.plugin.activerecord.generator.Generator;

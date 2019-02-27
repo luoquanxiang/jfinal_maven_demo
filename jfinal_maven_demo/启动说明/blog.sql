@@ -1,6 +1,3 @@
-CREATE DATABASE jfinal_demo;
-
-USE jfinal_demo;
 
 CREATE TABLE `blog` (
   `id` int(11) NOT NULL auto_increment,

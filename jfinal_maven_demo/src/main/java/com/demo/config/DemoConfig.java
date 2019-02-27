@@ -1,8 +1,8 @@
-package com.demo.common;
+package com.demo.config;
 
-import com.demo.blog.BlogController;
-import com.demo.common.model._MappingKit;
-import com.demo.index.IndexController;
+import com.demo.controller.BlogController;
+import com.demo.controller.IndexController;
+import com.demo.model._MappingKit;
 import com.jfinal.config.Constants;
 import com.jfinal.config.Handlers;
 import com.jfinal.config.Interceptors;

@@ -1,6 +1,6 @@
-package com.demo.blog;
+package com.demo.service;
 
-import com.demo.common.model.Blog;
+import com.demo.model.Blog;
 import com.jfinal.plugin.activerecord.Page;
 
 /**
