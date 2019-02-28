@@ -1,5 +1,5 @@
 # config
-jdbcUrl = jdbc:mysql://localhost/jfinal_demo?characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull
+jdbcUrl = jdbc:mysql://localhost/my_curd?characterEncoding=utf8&useSSL=false&zeroDateTimeBehavior=convertToNull
 user = root
 password =
 devMode = true
